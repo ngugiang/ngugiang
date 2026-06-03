@@ -5,7 +5,7 @@ I'm Ngu Giang 🌱
 - How to reach me: ngugiang2002@gmail.com
 - 
 <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=truonganletk&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=ngugiang&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **ngugiang/ngugiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
