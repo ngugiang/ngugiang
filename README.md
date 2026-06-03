@@ -2,8 +2,8 @@
 
 I'm Ngu Giang 🌱
 - 🔭 I’m currently studying for my master degree in AI/ML 
-- 
-
+- How to reach me: ngugiang2002@gmail.com
+  <img src="https://img.shields.io/badge/blockchain-AI%20Powered-blue" />
 <!--
 **ngugiang/ngugiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
